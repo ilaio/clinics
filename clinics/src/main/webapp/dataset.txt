@@ -1,0 +1,3 @@
+HDL Cholesterol=40
+LDL Cholesterol=100
+A1C=4
